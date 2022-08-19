@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ProxEffMonitor
+// @name         <•∞×ɪ[Proximity Effect Analyzer]ɪ×∞•<x>•∞×ɪ[rukis]ɪ×∞•>
 // @namespace    http://tampermonkey.net/
 // @version      0.91
 // @description  Proximity Effect Monitor
